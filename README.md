@@ -8,7 +8,7 @@ An immersive **space-themed interactive web experience** built using modern fron
 
 # 🌐 Live Demo
 
-
+https://space-git-main-manishraj-aryan.vercel.app/
 
 ---
 
@@ -22,13 +22,16 @@ An immersive **space-themed interactive web experience** built using modern fron
 
 ## 🚀 Interactive Experience
 
-📷 **Screenshot:** [Interactive Section](assets/interactive.png)
+<img width="956" height="411" alt="image" src="https://github.com/user-attachments/assets/50cbca9b-bc68-401f-aeaf-8e69884fd643" />
+
 
 ---
 
 ## 📱 Responsive Design
 
-📷 **Screenshot:** [Responsive Layout](assets/mobile.png)
+
+<img width="959" height="412" alt="image" src="https://github.com/user-attachments/assets/234d734a-6a28-414a-8d23-1556217e0930" />
+
 
 ---
 
